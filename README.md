@@ -5,8 +5,8 @@ A Repo with Slides and Data for Subnetting based on the below mentioned Videos:
 
 <b> [Subnet Masks](https://www.youtube.com/watch?v=s_Ntt6eTn94) </b>
 
-<b> [Subnets vs VLANs](https://www.youtube.com/watch?v=6_giEv20En0) </b>
+<b> Some Extra Videos: </b>
 
-<b> [LAN, WAN, SUBNET](https://www.youtube.com/watch?v=NyZWSvSj8ek) </b>
-
-<b> [APIPA](https://www.youtube.com/watch?v=0tEjUR6tjBU) </b>
+- [Subnets vs VLANs](https://www.youtube.com/watch?v=6_giEv20En0)
+- [LAN, WAN, SUBNET](https://www.youtube.com/watch?v=NyZWSvSj8ek)
+- [APIPA](https://www.youtube.com/watch?v=0tEjUR6tjBU)
